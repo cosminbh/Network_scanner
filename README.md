@@ -1,1 +1,2 @@
 # Network_scanner
+This Python3 script, utilizing the Scapy library, serves as a powerful tool for discovering and displaying the IP addresses and corresponding MAC addresses of devices connected to the same network. The primary utility of this script is in network reconnaissance, providing valuable information for scenarios such as identifying potential targets for security assessments, including Man-In-the-Middle (MITM) attacks.
